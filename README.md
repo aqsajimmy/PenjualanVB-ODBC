@@ -28,7 +28,7 @@
 
 # Icon & Font & Colors Pallette
 <a href="https://icons8.com/icons/"><p>Icons8</p></a>
-<a href="https://www.dafont.com/ds-digital.font"><p>Visual Studio Code 2010 </p></a>
+<a href="https://www.dafont.com/ds-digital.font"><p>DS Digital Font </p></a>
 <a href="https://flatuicolors.com/palette/gb"><p>FlatUIColors</p></a>
 
 <p>Thanks for coming and see my project</p>
