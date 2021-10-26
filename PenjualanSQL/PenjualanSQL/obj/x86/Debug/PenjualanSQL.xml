@@ -1,0 +1,120 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PenjualanSQL
+</name>
+</assembly>
+<members>
+<member name="P:PenjualanSQL.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.Allura___Feedback_Session">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_add_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_add_shopping_cart_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_box_important_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_cash_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_cash_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_conference_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_grocery_shelf_512">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_laptop_with_cursor_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_online_store_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_online_store_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_paid_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_paid_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_paper_money_128">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_paper_money_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_people_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_plus___32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_product_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_product_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_rocket_64">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_stack_of_money_32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_team_256">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.icons8_transaction_96">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:PenjualanSQL.My.Resources.Resources.undraw_Collaborators_re_hont">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PenjualanSQL.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
